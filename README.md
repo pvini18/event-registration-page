@@ -10,7 +10,8 @@
       <label for='email'>Email:</label>
       <input type='email' id='email' name='email' placeholder='Enter your email'>
 <br><br>
-      <input type='password' name='passwordfield'>
+      <label for='password'>Password:</label>
+      <input type='password' id='passwordfield' name='passwordfield'>
 <br><br>
       <label for="choose">Choose a session:</label>
       <select id="choose" name="choose">

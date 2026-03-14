@@ -5,10 +5,11 @@
     <h1>Register Now</h1>
     <form>
       <label for='name'>Name:</label>
-      <input type="text" id="name" name='name'><br>
+      <input type="text" id="name" name='name' placeholder='Enter your name'><br>
 <br><br>
       <label for='email'>Email:</label>
-      <input type="email" id='email' name="email">
+      <input type='email' id='email' name='email' placeholder='Enter your email'>
+      <input type='password' name='passwordfield'>
 <br><br>
       <label for="choose">Choose a session:</label>
       <select id="choose" name="choose">
